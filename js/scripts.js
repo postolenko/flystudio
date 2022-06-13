@@ -14,16 +14,16 @@ bodyWidth = w.innerWidth || e.clientWidth || g.clientWidth;
 
 $(window).resize(function() {
   bodyWidth = w.innerWidth || e.clientWidth || g.clientWidth;
-  getAnimation();
+  // getAnimation();
 });
 
 $(document).scroll(function() {
-    getAnimation();
+    // getAnimation();
 });
 
 $(document).ready(function() {
 
-    getAnimation();
+    // getAnimation();
 
     if( $(".slider_1").length > 0 ) {
         $(".slider_1").not(".slick-initialized").slick({

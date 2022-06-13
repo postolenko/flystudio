@@ -2128,7 +2128,7 @@ footer {
 
 /*-- Animation --*/
 
-.leftSlice {
+/*.leftSlice {
     position: relative;
     left: -3%;
     opacity: 0;
@@ -2266,6 +2266,6 @@ footer {
 .animate.active.fadeInUp {
     bottom: 0;
     opacity: 1;
-}
+}*/
 
 /*-- /Animation --*/
