@@ -2068,6 +2068,7 @@ p.price {
 
 footer {
     padding: 1px 0;
+    z-index: 2;
 }
 
 .footer_templ {
