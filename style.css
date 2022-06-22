@@ -904,7 +904,8 @@ a:active {
 }
 
 .single_img_wrapp {
-    height: 320px;
+    /*height: 320px;*/
+    height: 570px;
     margin: 62px 0 29px 0;
     background-size: cover;
     background-position: center;
@@ -1272,6 +1273,8 @@ p.price {
     min-height: 583px;
     position: relative;
     overflow: hidden;
+    background-size: cover;
+    background-position: center;
 }
 
 .article_img_box:before {
